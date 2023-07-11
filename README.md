@@ -1,4 +1,4 @@
-# work-day-schedule-planner
+# Work-Day Schedule Planner
 Module 05 Third-Party APIs Challenge: Work Day Scheduler
 
 This Daily Planner is a web-based application designed to help employees manage their time effectively by providing a user-friendly interface to create and organize daily schedules. The planner allows users to add important events and save them locally, ensuring that the events persist even after refreshing the page.
